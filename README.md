@@ -1,23 +1,4 @@
-<p align="center"><img src="fastlane/metadata/android/en-US/images/icon.png" width="150"></p> 
-<h1 align="center"><b>OpenPods</b></h1>
-<h4 align="center">The Free and Open Source app for monitoring your AirPods on Android</h4>
-<p align="center">
-	<a href="https://github.com/adolfintel/OpenPods/releases">
-		<img src="https://img.shields.io/github/release/adolfintel/OpenPods.svg?color=blueviolet" alt="GitHub release">
-	</a>
-	<a href="https://www.gnu.org/licenses/gpl-3.0">
-		<img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg" alt="License: GPLv3">
-	</a>
-	<img alt="Minimum SDK" src="https://img.shields.io/badge/API-26%2B-green">
-</p>
-<p align="center">
-	<a href="https://f-droid.org/packages/com.dosse.airpods">
-		<img src="assets/get-it-on-fdroid.png" alt="Get it on F-Droid" height="80">
-	</a>
-	<a href="https://downloads.fdossena.com/geth.php?r=openpods-apk">
-		<img src="assets/get-it-on-openpods.png" alt="Get it on OpenPods" height="80">
-	</a>
-</p>
+
 
 ## Screenshots
 
