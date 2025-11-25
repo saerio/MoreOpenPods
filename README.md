@@ -57,11 +57,10 @@
 * Powerbeats 3
 * Powerbeats Pro
 
-## DO NOT REUPLOAD TO GOOGLE PLAY
-**This app violates Google Play policies and is designed to break if you try to fix that unless you really know what you're doing.**<br />
-Legal actions can and will be taken when uploading a compiled version to the Google Play Store that does not comply with the terms and conditions of the app's license. As a result, you may no longer be able to publish apps to the Google Play Store. This app is not intended to be uploaded to the Google Play Store. The developer is legally allowed to demand compensation.
+## the previous developer tried to limit your GPL rigths
 
-This paragraph was added due to multiple license violations found on the Google Play Store. If you're not sure whether you're allowed to distribute your modified version, please contact the developer.
+i will not.
+take peace knowing your code can be uploaded to google play with nothing to stop you.
 
 ## Donate
 <a href="https://www.paypal.me/sineisochronic"><img src="assets/donate-with-paypal.png" alt="Donate with PayPal" height="80"></a>
