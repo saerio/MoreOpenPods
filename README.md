@@ -62,9 +62,6 @@
 i will not.
 take peace knowing your code can be uploaded to google play with nothing to stop you.
 
-## Donate
-<a href="https://www.paypal.me/sineisochronic"><img src="assets/donate-with-paypal.png" alt="Donate with PayPal" height="80"></a>
-
 ## License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)  
 
@@ -84,6 +81,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 &nbsp;
 &nbsp;
 
-Copyright (C) 2019-2022 Federico Dossena
-
-AirPods is a trademark of Apple inc.
+Author: Federico Dossena(skill issue)
+AirPods is a trademark of Apple Inc.
