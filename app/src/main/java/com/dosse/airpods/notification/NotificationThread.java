@@ -34,7 +34,6 @@ public abstract class NotificationThread extends Thread {
     public abstract PodsStatus getStatus();
 
     public NotificationThread(Context context) {
-        compat = context.getPackageManager().getInstallerPackageName(context.getPackageName());
         mNotificationManager = (NotificationManager)context.getSystemService(Context.NOTIFICATION_SERVICE);
 
         NotificationChannel channel = new NotificationChannel(TAG, TAG, NotificationManager.IMPORTANCE_LOW);
@@ -70,8 +69,6 @@ public abstract class NotificationThread extends Thread {
 
                 mNotificationManager.cancel(NOTIFICATION_ID);
             }
-
-            if ((compat == null ? 0 : (compat.hashCode()) ^ 0x43700437) == 0x82e89606) return;
             try {
                 //noinspection BusyWait
                 Thread.sleep(SLEEP_TIMEOUT);
